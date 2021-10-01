@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Gianluca Elia 👋
 
-<!--
-**gianlukk994/gianlukk994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻 Software Engineer focused on MicroFrontends ,ReactJS, React Native, Next Js, Redux, Angular, NGRX, and NodeJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Financial analyst focused on US Stock Market and long term investments in ETF
+
+🐍 Currently I’m learning Python to build trading systems.
+
+🚀 Passionate about IT, and self-improvement books 📕 
+
+
+![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlukk994&show_icons=true&theme=radical&count_private=true)
