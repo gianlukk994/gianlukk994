@@ -10,6 +10,8 @@
 
 🐍 Currently I’m learning Python to build trading systems.
 
+🔗 Lately I'm deeping the web3 developing smart contract in Solidity
+
 🚀 Passionate about IT, and self-improvement books 📕 
 
 
